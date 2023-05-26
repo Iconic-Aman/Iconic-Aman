@@ -1,6 +1,6 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">A passionate machine learning engineer from India</h3>
 <img align="right" alt = "AI" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 - 🌱 I’m currently learning **Deep Learning**
