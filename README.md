@@ -1,4 +1,10 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)
+<!-- ![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/0*HQ7WKolP9iEr0z6x.gif)
+<!-- Center-aligned and resized image with inline CSS -->
+<p align="center">
+  <img alt="AI"  src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/Comp-1.gif">
+</p>
+<!-- Black background color -->
+<div style="background-color: black; color: white; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
 <img align="right" alt = "AI" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
