@@ -12,7 +12,7 @@
 <div style="background-color: black; color: white; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
-<img align="right" style="margin-left: 20%" alt = "AI" width="400" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg">
+<img align="right"  alt = "AI" width="320" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg">
 
 - 🌱 I’m currently learning **Deep Learning**
 
