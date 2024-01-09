@@ -3,11 +3,16 @@
 <p align="center">
   <img alt="AI"  src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/Comp-1.gif">
 </p>
+<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100" fill="black"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="20" fill="white">Hi 👋, I'm Aman</text>
+</svg>
+
 <!-- Black background color -->
 <div style="background-color: black; color: white; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
-<img align="right" alt = "AI" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<img align="right" style="margin-left: 20%" alt = "AI" width="400" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg">
 
 - 🌱 I’m currently learning **Deep Learning**
 
